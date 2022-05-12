@@ -16,8 +16,8 @@ function App() {
   setCoins(res.data);
 }
  
-  useEffect(() => { //El useEffect hace que la funcion getData se actualice cada vez que
-  getData()         //se renderiza
+  useEffect(() => { 
+  getData()      
   }, []);
  
 
