@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/crypto-coingecko/static/css/main.4974e717.css",
-    "main.js": "/crypto-coingecko/static/js/main.c53ae0cc.js",
+    "main.js": "/crypto-coingecko/static/js/main.c41e5d1e.js",
     "index.html": "/crypto-coingecko/index.html",
     "main.4974e717.css.map": "/crypto-coingecko/static/css/main.4974e717.css.map",
-    "main.c53ae0cc.js.map": "/crypto-coingecko/static/js/main.c53ae0cc.js.map"
+    "main.c41e5d1e.js.map": "/crypto-coingecko/static/js/main.c41e5d1e.js.map"
   },
   "entrypoints": [
     "static/css/main.4974e717.css",
-    "static/js/main.c53ae0cc.js"
+    "static/js/main.c41e5d1e.js"
   ]
 }
